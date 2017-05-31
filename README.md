@@ -1,5 +1,5 @@
 # Rmp
-Short description and motivation.
+Rmp is a Ruby on Rails engine that provides a double-entry bookkeeping functionality for its host application.
 
 ## Usage
 How to use my plugin.

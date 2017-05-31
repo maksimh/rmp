@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Rmp::VERSION
   s.authors     = ["Maksim H"]
   s.email       = ["maksimh@yahoo.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Rmp."
-  s.description = "TODO: Description of Rmp."
+  s.homepage    = "https://github.com/maksimh/rmp"
+  s.summary     = "An engine providing a double-entry bookkeeping functionality for Rails application"
+  s.description = "An engine providing a double-entry bookkeeping functionality for Rails application"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

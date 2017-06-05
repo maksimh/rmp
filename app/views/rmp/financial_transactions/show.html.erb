@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Date:</strong>
+  <%= @financial_transaction.date %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @financial_transaction.description %>
+</p>
+
+<%= link_to 'Edit', edit_financial_transaction_path(@financial_transaction) %> |
+<%= link_to 'Back', financial_transactions_path %>
